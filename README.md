@@ -1,1 +1,0 @@
-# Education-Infrastructure-Of-India-at-a-glance
