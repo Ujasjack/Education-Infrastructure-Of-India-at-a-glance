@@ -13,6 +13,6 @@ Education Infrastructure in India at a Glance
 # code execution 
 
 1. Code can be excecuted in Google collab or Jupyter Notebook.
-2. There is 1 code file, 6 inputs csv files are there. After uploading these 6 files, we can run a code step by step.
+2. There is 1 code file, 7 inputs csv files are there. After uploading these 7 files, we can run a code step by step.
 
 
